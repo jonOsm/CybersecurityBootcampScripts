@@ -94,7 +94,7 @@ output.elasticsearch:
   # Array of hosts to connect to.
   hosts: ["10.1.0.4:9200"]
   username: "elastic"
-  password: "" #add a sensible password
+  password: "" # add a sensible password
 
   # Optional protocol and basic auth credentials.
   #protocol: "https"
